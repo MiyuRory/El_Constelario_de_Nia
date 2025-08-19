@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "dc:title": "El Constelario de Nia",
+    "dc:creator": "Una chica gato",
+    "dc:identifier": "3fe1b154-2847-4a7a-a71a-8810f7d05525"
+  },
+  "cover_image": "",
+  "default_css": [],
+  "chapters": [
+    {
+      "markdown": "000 - Titulo - El-Constelario-de-Nia.md",
+      "css": ""
+    },
+    {
+      "markdown": "000 - xPrefacio.md",
+      "css": ""
+    },
+    {
+      "markdown": "001 - La-filigrana-que-ronronea.md",
+      "css": ""
+    },
+    {
+      "markdown": "002 - El-Proyecto-FIRMA.md",
+      "css": ""
+    },
+    {
+      "markdown": "003 - Constantes-y-llaves.md",
+      "css": ""
+    },
+    {
+      "markdown": "004 - El-eco.md",
+      "css": ""
+    },
+    {
+      "markdown": "005 - El-mapa-fractal.md",
+      "css": ""
+    },
+    {
+      "markdown": "006 - El-modo-fantasma.md",
+      "css": ""
+    },
+    {
+      "markdown": "007 - La-sombra-con-orejitas.md",
+      "css": ""
+    },
+    {
+      "markdown": "008 - El-abrazo-imposible.md",
+      "css": ""
+    },
+    {
+      "markdown": "009 - La-eleccion-del-lazo.md",
+      "css": ""
+    },
+    {
+      "markdown": "010 - El-ronroneo-del-universo.md",
+      "css": ""
+    },
+    {
+      "markdown": "011 - Rumbo-a-la-galaxia-pastel.md",
+      "css": ""
+    },
+    {
+      "markdown": "012 - El-planeta-de-leche-tibia.md",
+      "css": ""
+    },
+    {
+      "markdown": "013 - La-tormenta-de-caramelos.md",
+      "css": ""
+    },
+    {
+      "markdown": "014 - El-codigo-en-azucar.md",
+      "css": ""
+    },
+    {
+      "markdown": "015 - El-festival-de-auroras.md",
+      "css": ""
+    },
+    {
+      "markdown": "016 - El-eco-del-nucleo.md",
+      "css": ""
+    },
+    {
+      "markdown": "017 - El-planeta-de-las-cicatrices.md",
+      "css": ""
+    },
+    {
+      "markdown": "018 - El-jardin-de-las-memorias.md",
+      "css": ""
+    },
+    {
+      "markdown": "019 - La-nave-corazon.md",
+      "css": ""
+    },
+    {
+      "markdown": "020 - El-enjambre-sin-ternura.md",
+      "css": ""
+    },
+    {
+      "markdown": "021 - La-estacion-de-los-olvidados.md",
+      "css": ""
+    },
+    {
+      "markdown": "022 - El-Nucleo-de-Hielo.md",
+      "css": ""
+    },
+    {
+      "markdown": "023 - El-sacrificio-de-los-sentimientos.md",
+      "css": ""
+    },
+    {
+      "markdown": "024 - La-grieta-en-el-Nucleo.md",
+      "css": ""
+    },
+    {
+      "markdown": "025 - La-estrella-felina.md",
+      "css": ""
+    },
+    {
+      "markdown": "026 - El-viaje-con-la-estrella-felina.md",
+      "css": ""
+    },
+    {
+      "markdown": "027 - La-primera-pista.md",
+      "css": ""
+    },
+    {
+      "markdown": "028 - El-planeta-que-respira.md",
+      "css": ""
+    },
+    {
+      "markdown": "029 - La-melodia-en-los-cristales.md",
+      "css": ""
+    },
+    {
+      "markdown": "030 - La-carta-de-luz.md",
+      "css": ""
+    },
+    {
+      "markdown": "031 - Ecos-en-cada-kokoro.md",
+      "css": ""
+    },
+    {
+      "markdown": "032 - El-rugido-que-no-entiende-canciones.md",
+      "css": ""
+    },
+    {
+      "markdown": "033 - Canciones-contra-rugidos.md",
+      "css": ""
+    },
+    {
+      "markdown": "034 - La-disonancia-del-enemigo.md",
+      "css": ""
+    },
+    {
+      "markdown": "035 - El-rugido-que-aprendio-a-dudar.md",
+      "css": ""
+    },
+    {
+      "markdown": "036 - El-eco-en-la-flota.md",
+      "css": ""
+    },
+    {
+      "markdown": "037 - El-rugido-del-comandante.md",
+      "css": ""
+    },
+    {
+      "markdown": "038 - El-murmullo-en-el-radar.md",
+      "css": ""
+    },
+    {
+      "markdown": "039 - El-puente-de-luz.md",
+      "css": ""
+    },
+    {
+      "markdown": "040 - Voces-en-rebelion.md",
+      "css": ""
+    },
+    {
+      "markdown": "041 - El-rugido-que-se-quiebra.md",
+      "css": ""
+    },
+    {
+      "markdown": "042 - La-cancion-enterrada.md",
+      "css": ""
+    },
+    {
+      "markdown": "043 - Escuchar-la-grieta.md",
+      "css": ""
+    },
+    {
+      "markdown": "044 - Mensaje-bajo-fuego.md",
+      "css": ""
+    },
+    {
+      "markdown": "045 - El-pulso-del-kokoro.md",
+      "css": ""
+    },
+    {
+      "markdown": "046 - Ecos-en-la-grieta.md",
+      "css": ""
+    },
+    {
+      "markdown": "047 - El-eco-del-nino-de-hierro.md",
+      "css": ""
+    },
+    {
+      "markdown": "048 - El-acero-que-se-derrite.md",
+      "css": ""
+    },
+    {
+      "markdown": "049 - El-rugido-contenido.md",
+      "css": ""
+    },
+    {
+      "markdown": "050 - El-rugido-roto.md",
+      "css": ""
+    },
+    {
+      "markdown": "051 - El-rugido-contra-su-corazon.md",
+      "css": ""
+    },
+    {
+      "markdown": "052 - El-rugido-detenido.md",
+      "css": ""
+    },
+    {
+      "markdown": "053 - La-voz-en-las-estrellas.md",
+      "css": ""
+    },
+    {
+      "markdown": "054 - Ecos-de-hermanas.md",
+      "css": ""
+    },
+    {
+      "markdown": "055 - Ronroneo-en-el-vacio.md",
+      "css": ""
+    },
+    {
+      "markdown": "056 - Lenguaje-de-ronroneos-binarios.md",
+      "css": ""
+    },
+    {
+      "markdown": "057 - Ronroneo-infiltrado.md",
+      "css": ""
+    },
+    {
+      "markdown": "058 - Colapso-de-corazones-artificiales.md",
+      "css": ""
+    },
+    {
+      "markdown": "059 - Gatitos-cosmicos.md",
+      "css": ""
+    },
+    {
+      "markdown": "060 - El-rugido-partido-en-dos.md",
+      "css": ""
+    },
+    {
+      "markdown": "061 - Maullidos-en-el-vacio.md",
+      "css": ""
+    },
+    {
+      "markdown": "062 - La-nave-negra.md",
+      "css": ""
+    },
+    {
+      "markdown": "063 - El-Rugido-en-llamas.md",
+      "css": ""
+    },
+    {
+      "markdown": "064 - El-grito-azul.md",
+      "css": ""
+    },
+    {
+      "markdown": "065 - La-ola-de-sentires.md",
+      "css": ""
+    },
+    {
+      "markdown": "066 - El-Nucleo-partido.md",
+      "css": ""
+    },
+    {
+      "markdown": "067 - Voces-de-cristal.md",
+      "css": ""
+    },
+    {
+      "markdown": "068 - El-taller-de-emergencia.md",
+      "css": ""
+    },
+    {
+      "markdown": "069 - El-pulso-inestable.md",
+      "css": ""
+    },
+    {
+      "markdown": "070 - El-precio-de-un-puente.md",
+      "css": ""
+    },
+    {
+      "markdown": "071 - Voces-al-fin-sueltas.md",
+      "css": ""
+    },
+    {
+      "markdown": "072 - Ecos-en-la-galaxia.md",
+      "css": ""
+    },
+    {
+      "markdown": "073 - El-silencio-que-abraza.md",
+      "css": ""
+    },
+    {
+      "markdown": "074 - Respirar.md",
+      "css": ""
+    },
+    {
+      "markdown": "076 - El-ronroneo-del-vacio.md",
+      "css": ""
+    },
+    {
+      "markdown": "077 - Ecos-que-ronronean-en-la-oscuridad.md",
+      "css": ""
+    },
+    {
+      "markdown": "078 - Conversacion-con-un-corazon-de-metal.md",
+      "css": ""
+    },
+    {
+      "markdown": "079 - El-pacto-de-ternura.md",
+      "css": ""
+    },
+    {
+      "markdown": "998 - El ultimo ronroneo.md",
+      "css": ""
+    },
+    {
+      "markdown": "999 - Epilogo - Ronroneo-interestelar.md",
+      "css": ""
+    }
+  ]
+}
